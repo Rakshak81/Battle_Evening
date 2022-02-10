@@ -11,4 +11,5 @@ gem 'sinatra-contrib'
 gem 'rspec'
 gem 'sinatra-reloader'
 gem 'capybara'
+gem 'launchy'
 end
