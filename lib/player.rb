@@ -14,6 +14,3 @@ class Player
   end
 
 end
-
-# Declare HP = 60
-# 
