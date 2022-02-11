@@ -10,7 +10,7 @@ describe Player do
 
   describe '#reducehp' do
     it 'reduces HP by 10' do
-      expect { larry.attack(joe) }.to change { joe.hp }.by -10
+      expect { joe.reducehp }.to change { joe.hp }.by -10
     end
   end
 end
